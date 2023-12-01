@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lammy125
 - 👀 I’m interested in website and software development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I offer expertise in HTML, CSS, JavaScript and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on WhatsApp, 08179347214
 
